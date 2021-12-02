@@ -1,0 +1,17 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="200" width="200" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#FF0000" d="m228.66667,131.261368c0,2 -15.831117,10.83551 -23.818182,20c-7.796866,8.946259 -19.843579,17.962601 -23.818182,28c-3.559438,8.988831 -19.840792,16.953323 -23.818182,25c-2.96001,5.988403 -13.984193,10.044678 -23.818182,16c-13.331582,8.073441 -32.730799,14.98085 -39.69697,21c-9.233168,7.977936 -15.878788,10 -15.878788,13c0,1.999985 0,1.999985 0,1.999985c15.878788,-1.999985 31.757576,-2.999985 39.69697,-5.999985c15.878788,-6 45.942568,-15.056381 63.515152,-23c28.984555,-13.102371 52.065505,-24.143448 79.39394,-34c28.192263,-10.168137 42.332733,-18.229355 55.575758,-22c11.580726,-3.297333 15.878788,-5 15.878788,-7l0,-1l7.939394,0l0,-1" id="svg_1" stroke-width="0.001" fill="none"/>
+  <text font-weight="bold" font-style="italic" stroke="#FF0000" transform="matrix(3.8692973407542723,0,0,7.977333713192478,-479.1217330014569,-1098.8093855441896) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="4rem" id="svg_3" y="177.146008" x="141.25939" stroke-opacity="null" stroke-width="0" fill="#550c60">UnBeATs</text>
+  <path id="svg_4" d="m176.818182,194.261364l-349.818182,276.738636l25,-412" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0.001" stroke="#FF0000" fill="none"/>
+ </g>
+</svg>

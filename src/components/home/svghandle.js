@@ -5,7 +5,7 @@ import myImg3 from "../../Assets/update1.png";
 
 import "./img-svg.css";
 
-function Svghandle(props) {
+function Svghandle() {
   const [count, setcount] = useState(1);
 
   useEffect(() => {

@@ -7,6 +7,7 @@ import prims from "../../Assets/Projects/prims.png";
 import bfs from "../../Assets/Projects/bfs.png";
 import sort from "../../Assets/Projects/sort.png";
 import ecom from "../../Assets/Projects/ecom.png";
+import blogimg from "../../Assets/Projects/blog_img.png";
 
 function Projects() {
   return (
@@ -57,6 +58,15 @@ function Projects() {
               title="E-commerce site"
               description="tried to implement basics features of e-commerce site"
               link="https://eloquent-darwin-84e54c.netlify.app"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={blogimg}
+              isBlog={false}
+              title="Basic Blog-site"
+              description="tried to implement basics features of Blog site"
+              link="https://blog-app-unbeat01.vercel.app/"
             />
           </Col>
         </Row>

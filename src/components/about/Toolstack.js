@@ -7,6 +7,8 @@ import {
   SiHeroku,
   SiFigma,
   SiNetlify,
+  SiIntellijidea,
+  SiIata,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -29,6 +31,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNetlify />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiIntellijidea />
       </Col>
     </Row>
   );

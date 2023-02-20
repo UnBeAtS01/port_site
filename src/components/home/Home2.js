@@ -22,7 +22,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  C/C++, Javascript and learning python.{" "}
+                  C/C++, Javascript,Java and learning python{" "}
                 </b>
               </i>
               <br />
@@ -35,7 +35,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js/Express</b> and
+              with <b className="purple">Node.js/Express/SpringBoot</b> and
               <i>
                 <b className="purple">
                   {" "}

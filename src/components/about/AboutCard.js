@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ankit Sinha </span>
             from <span className="purple"> hyderabad, India.</span>
             <br />
-            I'm pre final year student at jadavpur university.
+            I'm final year student at jadavpur university.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

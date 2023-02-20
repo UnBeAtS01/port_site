@@ -8,6 +8,7 @@ import bfs from "../../Assets/Projects/bfs.png";
 import sort from "../../Assets/Projects/sort.png";
 import ecom from "../../Assets/Projects/ecom.png";
 import blogimg from "../../Assets/Projects/blog_img.png";
+import bunker from "../../Assets/Projects/bunkers.png";
 
 function Projects() {
   return (
@@ -21,6 +22,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bunker}
+              isBlog={false}
+              title="College Network"
+              description="All in one College website for students."
+              link="https://comforting-dolphin-013b42.netlify.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={prims}

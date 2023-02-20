@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import myImg1 from "../../Assets/updat3.png";
-import myImg2 from "../../Assets/updat4.png";
+
 import myImg3 from "../../Assets/update1.png";
 
 import "./img-svg.css";
@@ -274,10 +274,8 @@ function Svghandle() {
         </g>
       </svg>
 
-      {count % 3 === 1 ? (
+      {count % 2 === 1 ? (
         <img src={myImg1} className="img-fluid img-deal" alt="avatar" />
-      ) : count % 3 === 0 ? (
-        <img src={myImg2} className="img-fluid img-deal" alt="avatar" />
       ) : (
         <img src={myImg3} className="img-fluid img-deal" alt="avatar" />
       )}

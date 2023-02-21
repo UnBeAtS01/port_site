@@ -259,12 +259,15 @@ html {
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
   padding-top: 30px !important;
+  width: 100%;
+
 }
 
 .home-content {
   padding: 9rem 0 2rem !important;
   color: whitesmoke;
   text-align: left;
+  width: 100vw !important;;
 }
 
 .heading {

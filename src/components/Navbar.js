@@ -34,6 +34,7 @@ function NavBar() {
       fixed="top"
       expand="md"
       className={navColour ? "sticky" : "navbar"}
+      style={{ width: "100vw" }}
     >
       <Container>
         <Navbar.Brand href="/">

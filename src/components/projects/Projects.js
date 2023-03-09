@@ -9,6 +9,7 @@ import sort from "../../Assets/Projects/sort.png";
 import ecom from "../../Assets/Projects/ecom.png";
 import blogimg from "../../Assets/Projects/blog_img.png";
 import bunker from "../../Assets/Projects/bunkers.png";
+import sheduler from "../../Assets/Projects/sheduler.png";
 
 function Projects() {
   return (
@@ -40,7 +41,15 @@ function Projects() {
               link="https://cocky-jennings-b427cf.netlify.app/"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sheduler}
+              isBlog={false}
+              title="algorithm visualizer"
+              description="CPU Sheduling Visualizer"
+              link="https://cpu-sheduling-vis.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bfs}
